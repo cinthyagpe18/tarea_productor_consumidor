@@ -1,0 +1,42 @@
+Productor 1 puso 101
+    Consumidor 1 tomo 101
+Productor 2 puso 201
+    Consumidor 2 tomo 201
+Productor 1 puso 102
+    Consumidor 1 tomo 102
+Productor 2 puso 202
+    Consumidor 2 tomo 202
+Productor 2 puso 203
+    Consumidor 1 tomo 203
+Productor 2 puso 204
+    Consumidor 2 tomo 204
+Productor 1 puso 103
+    Consumidor 1 tomo 103
+Productor 2 puso 205
+    Consumidor 2 tomo 205
+Productor 2 puso 206
+    Consumidor 1 tomo 206
+Productor 1 puso 104
+    Consumidor 1 tomo 104
+Productor 1 puso 105
+    Consumidor 2 tomo 105
+Productor 1 puso 106
+    Consumidor 2 tomo 106
+Productor 1 puso 107
+    Consumidor 2 tomo 107
+Productor 2 puso 207
+    Consumidor 2 tomo 207
+Productor 1 puso 108
+    Consumidor 1 tomo 108
+Productor 2 puso 208
+    Consumidor 2 tomo 208
+Productor 1 puso 109
+    Consumidor 1 tomo 109
+Productor 2 puso 209
+    Consumidor 2 tomo 209
+Productor 1 puso 110
+    Consumidor 1 tomo 110
+Productor 2 puso 210
+    Consumidor 1 tomo 210
+
+Termino el programa
